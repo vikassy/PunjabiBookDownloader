@@ -8,3 +8,8 @@ Eg:
 
 This will download all pages of the book from 1 to 100
 
+#Credits
+
+Satdeep Gil (satdeepgill@gmail.com)
+Vikas S Yaligar (vikasyaligar.it@gmail.com)
+
